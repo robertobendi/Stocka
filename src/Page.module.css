@@ -6,8 +6,8 @@
   border-radius: 6px;
   padding-left: 1em;
   padding-right: 1em;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
 }
 .buttonbuy {
   background-color: rgb(69, 173, 78);
@@ -17,8 +17,8 @@
   border-radius: 6px;
   padding-left: 3em;
   padding-right: 3em;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
 }
 
 .buttonsell {
@@ -29,8 +29,8 @@
   border-radius: 6px;
   padding-left: 3em;
   padding-right: 3em;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
 }
 
 
@@ -42,6 +42,16 @@
   border-radius: 6px;
   border-color: #161616;
 }
+
+.display {
+  background-color: #111111;
+  color: white;
+  width: 15em;
+  font-size: 1.5em;
+  border-radius: 6px;
+  border-width: 0;
+}
+
 
 .textarea {
   background-color: rgb(10, 10, 10);
